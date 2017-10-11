@@ -1,6 +1,6 @@
 Package: spatstat.data
-Version: 1.1-0
-Date: 2017-09-21
+Version: 1.1-1
+Date: 2017-10-11
 Title: Datasets for 'spatstat'
 Authors@R: c(person("Adrian", "Baddeley", 
                     role = c("aut", "cre"),
@@ -22,9 +22,9 @@ LazyData: true
 NeedsCompilation: no
 ByteCompile: true
 BugReports: https://github.com/spatstat/spatstat.data/issues
-Packaged: 2017-09-21 09:49:07 UTC; adrian
+Packaged: 2017-10-11 00:43:40 UTC; adrian
 Author: Adrian Baddeley [aut, cre],
   Rolf Turner [aut],
   Ege Rubak [aut]
 Repository: CRAN
-Date/Publication: 2017-09-21 10:39:58 UTC
+Date/Publication: 2017-10-11 08:11:29 UTC
