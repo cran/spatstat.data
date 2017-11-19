@@ -1,4 +1,4 @@
-f86aaea53df914826575cfde02c28d4b *DESCRIPTION
+949fbd6e349e94cda90eb0c5ed0ee03e *DESCRIPTION
 cd38240808be689ae97d68eeaccff2b8 *NAMESPACE
 d5cf898da60af5106d32823bc2ee5c44 *R/copyExampleFiles.R
 5cea05d224857947ff5238dd53ddc8f4 *data/Kovesi.rda
@@ -12,11 +12,12 @@ e400bfb3386acb148b35b10d18d6ddb1 *data/austates.rda
 f8beb0f02aa1f750370c7c5fb92fd2e8 *data/bramblecanes.rda
 f29a1220c91c5dfbe061d3339a196a79 *data/bronzefilter.rda
 ac9127ade4ec06d16e7670ad7597f7ed *data/cells.rda
+895008f7ef578d6e8f3f64455d8a99b2 *data/cetaceans.rda
 aab6b9792201559b78605ddf0ffa20c4 *data/chicago.rda
 7c9f5cda2f6694a056f51b69a5337ac4 *data/chorley.rda
 516bee061424305d1adeedf51c2ce37b *data/clmfires.rda
 8a4e269c4aa42b308dab7f4cd480663d *data/copper.rda
-982a453b8f8a2f8d1015a37d931738c2 *data/datalist
+94a600b6ea8ad1224fcbb8ef44bf4c2a *data/datalist
 2f42d8e12be11418e60a54d1334009be *data/demohyper.rda
 38dd639fa3a943f0fa51c3c1c18edf8a *data/demopat.rda
 519cde696f0e0e5ae6fb9b4dede58711 *data/dendrite.rda
@@ -57,7 +58,7 @@ c9314c98277abb350a10e67de0e2d5ef *data/urkiola.rda
 2b4e46b138195b85ce4a3287ffe8b0c4 *data/vesicles.rda
 606f8a60ccbf42cb2b1f410d726505a0 *data/waka.rda
 26dc02b8d2a7f44ee0d8cebf846aafb4 *data/waterstriders.rda
-885794cef2ede53f788667f4a4910915 *inst/doc/packagesizes.txt
+fb01955e93adec3feed6c6b7264674fd *inst/doc/packagesizes.txt
 5bd85f0a101e5b39b9d3dd591bcf657f *inst/rawdata/amacrine/amacrine.txt
 5d385fac345198c0abc886db56d60cd5 *inst/rawdata/finpines/finpines.txt
 af2c22765b01d39a1efc4e82e958ec48 *inst/rawdata/gorillas/vegetation.asc
@@ -83,6 +84,7 @@ bd4d7cc6704038d150578d78856f9f45 *man/betacells.Rd
 19da35b9ed4a65bd812ca7a649724a8a *man/bramblecanes.Rd
 2003cb652ea850b88e9f56e5ff4c7a84 *man/bronzefilter.Rd
 90d69b8bd2d751e604ca1c6f323583dd *man/cells.Rd
+cd7a4c71cd61b786288c854d09e8b88f *man/cetaceans.Rd
 2c1c485b88361741db325d9c0a99b31a *man/chicago.Rd
 7df5a6886211d295a9938b31fa95a04e *man/chorley.Rd
 bba2f3274eb6bf047b22ff4dd73db28e *man/clmfires.Rd
