@@ -1,4 +1,4 @@
-171cde73c25ad3e062f01e766d0182a6 *DESCRIPTION
+10519f63fc93ffbc6901a4fb04531715 *DESCRIPTION
 71f27b031cf697c3b0687073c662f319 *NAMESPACE
 d5cf898da60af5106d32823bc2ee5c44 *R/copyExampleFiles.R
 d9c206d275964e90e33799650fe67cc5 *data/Kovesi.rda
@@ -16,6 +16,7 @@ a1e25f25b2e73ee0839ac95979ac21ac *data/bramblecanes.rda
 e7e1a40de64455f6e4f71678427884c4 *data/chicago.rda
 706d4a7be562c20dc7146ecdce7764ac *data/chorley.rda
 d6f5cba9202a86ae68e6a55215bc80a4 *data/clmfires.rda
+38797ed3c3b0e78f535b265ee196fe50 *data/concrete.rda
 7bd34dcfe04049e70638cb48b9c11dff *data/copper.rda
 8372076a3fad5d37b89e06f53a2760fa *data/demohyper.rda
 18c7b4d3fc7e83dac1a8e9d979cf251b *data/demopat.rda
@@ -57,7 +58,7 @@ ec3d7a05ef121a98a3d27a9e74775fa1 *data/spruces.rda
 28780bfcc6d9acf19ce5285bbce34146 *data/vesicles.rda
 b6b8086a62305fd7bd93949ad1930e8f *data/waka.rda
 843eae3d16f32092687ad77b5e23b73a *data/waterstriders.rda
-c7ce1125f318061944e29fbe75ffdae1 *inst/doc/packagesizes.txt
+c38a5f414a398859bfbffc8ca67da736 *inst/doc/packagesizes.txt
 5bd85f0a101e5b39b9d3dd591bcf657f *inst/rawdata/amacrine/amacrine.txt
 5d385fac345198c0abc886db56d60cd5 *inst/rawdata/finpines/finpines.txt
 af2c22765b01d39a1efc4e82e958ec48 *inst/rawdata/gorillas/vegetation.asc
@@ -87,6 +88,7 @@ bd4d7cc6704038d150578d78856f9f45 *man/betacells.Rd
 61561ca1b2ad69132d1051f1552a942e *man/chicago.Rd
 49ec12462a14f720348ae4cdc8504923 *man/chorley.Rd
 bba2f3274eb6bf047b22ff4dd73db28e *man/clmfires.Rd
+a0f3eb0ac851cc41a01fe7a2efb6d6ae *man/concrete.Rd
 97641341d3645173ca09b12774cfba32 *man/copper.Rd
 b867239312cb21a975003b2339d414e8 *man/copyExampleFiles.Rd
 f50f1381bc0bd39651c2d68f3a2b83e1 *man/demohyper.Rd
