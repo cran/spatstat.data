@@ -1,4 +1,4 @@
-382d95b0623bc6c538ac134d199f5e58 *DESCRIPTION
+6014ff6ad702d48d665fc06b645f8726 *DESCRIPTION
 71f27b031cf697c3b0687073c662f319 *NAMESPACE
 d5cf898da60af5106d32823bc2ee5c44 *R/copyExampleFiles.R
 d9c206d275964e90e33799650fe67cc5 *data/Kovesi.rda
@@ -11,6 +11,7 @@ e16566b0e20f4b70ea56f2884bdcae7e *data/bdspots.rda
 efc99d9f7e92b96629a07e3ab4f14302 *data/betacells.rda
 a1e25f25b2e73ee0839ac95979ac21ac *data/bramblecanes.rda
 0c397ab55d4da5437f582be806325580 *data/bronzefilter.rda
+4329ff25e86fbe855761601275380fb1 *data/btb.rda
 5a468574d8d4b30b2b6bb569ee56437b *data/cells.rda
 20fc2d42160b28b565d2b244072828a8 *data/cetaceans.rda
 e7e1a40de64455f6e4f71678427884c4 *data/chicago.rda
@@ -58,7 +59,7 @@ ec3d7a05ef121a98a3d27a9e74775fa1 *data/spruces.rda
 28780bfcc6d9acf19ce5285bbce34146 *data/vesicles.rda
 b6b8086a62305fd7bd93949ad1930e8f *data/waka.rda
 843eae3d16f32092687ad77b5e23b73a *data/waterstriders.rda
-76903c7ce557aea8c6a362a1494af6f2 *inst/doc/packagesizes.txt
+5aa2447f74ef21a737cb923c2653b078 *inst/doc/packagesizes.txt
 5bd85f0a101e5b39b9d3dd591bcf657f *inst/rawdata/amacrine/amacrine.txt
 5d385fac345198c0abc886db56d60cd5 *inst/rawdata/finpines/finpines.txt
 af2c22765b01d39a1efc4e82e958ec48 *inst/rawdata/gorillas/vegetation.asc
@@ -83,6 +84,7 @@ de1aab97cf592dd63ceaf0c2c05f8ab8 *man/bei.Rd
 7a422911951fbb2beff9f838ffe0ecea *man/betacells.Rd
 2411a868ee6a028e61dc9d5c6b1001a3 *man/bramblecanes.Rd
 689e62e27e9c77617767cb728292d877 *man/bronzefilter.Rd
+393bad432fc8e588d0b3ee6305cc3e57 *man/btb.Rd
 d97094bc5314e946ae7aed0be6cfb19f *man/cells.Rd
 72b1614b47c671dfeed9d9239a80b39e *man/cetaceans.Rd
 fdc7313867f6bcab0a9eb9dea4c34ca8 *man/chicago.Rd
@@ -123,7 +125,7 @@ cd6a0110cf9cd2c60feb7df507b6cc98 *man/residualspaper.Rd
 bbf30cfafd8f9e64d508117c68f2ae69 *man/simba.Rd
 8876bf509622472331b48f38425e379c *man/simdat.Rd
 9eec44b00a8171e80e128560a7ec682d *man/simplenet.Rd
-67acc5b5476c01a4d2c87e158b2ce446 *man/spatstat.data-package.Rd
+cdbc8a6a920839a7b2cf77defab248d6 *man/spatstat.data-package.Rd
 d1730803d9ba70134a1b3e3cf53cd80e *man/spiders.Rd
 66eb609c058642c94d245119e8702a60 *man/sporophores.Rd
 7237adf15bc0e4d69a197892b9c7e37e *man/spruces.Rd
