@@ -1,6 +1,6 @@
-1ad6aa41f948d373274fe89dd0581a08 *DESCRIPTION
+85858465e69d62f7e6d43af6f39f67e0 *DESCRIPTION
 71f27b031cf697c3b0687073c662f319 *NAMESPACE
-4b96a2dbcbb14b8b50a78ca8568038f9 *NEWS
+fc0ef5429da7c8ec48ef00e51f252278 *NEWS
 2a30eab1bb67b3c343de07010812747b *R/copyExampleFiles.R
 1d6a5e75cf4129fcfd9301d62c81ed88 *data/Kovesi.rda
 ecb74d30bb9fb922ea86dd5fb5f0fe24 *data/amacrine.rda
@@ -55,12 +55,13 @@ fb42506adf3b826e25d16d87471ea411 *data/simplenet.rda
 3d9f4baeac169688164d573c6a31951f *data/spiders.rda
 c849ee400f3ee962c601e3ccbf1b31b4 *data/sporophores.rda
 0beb1e58b9e31e38fc2acb44ce08820d *data/spruces.rda
+ca065430c9ee12bf3b99f84bafc88bba *data/stonetools.rda
 58fe75b0f3689f1f1c54f62d116f2c7e *data/swedishpines.rda
 0f79ba209421b7f10eb2d10a6d32867f *data/urkiola.rda
 42bff28b4117a1ea25cbf7b682968318 *data/vesicles.rda
 809481ff28b218b3b7d4dd535814447f *data/waka.rda
 b6e813089ce9424c534883423817b806 *data/waterstriders.rda
-5aa2447f74ef21a737cb923c2653b078 *inst/doc/packagesizes.txt
+cf0c785e1d793a56f77e6ef1f86e022f *inst/doc/packagesizes.txt
 5bd85f0a101e5b39b9d3dd591bcf657f *inst/rawdata/amacrine/amacrine.txt
 5d385fac345198c0abc886db56d60cd5 *inst/rawdata/finpines/finpines.txt
 af2c22765b01d39a1efc4e82e958ec48 *inst/rawdata/gorillas/vegetation.asc
@@ -110,7 +111,7 @@ ff5fb848ad44d3ee8de68a849bd5969e *man/hyytiala.Rd
 7c032a699712d14de96ea03891245555 *man/lansing.Rd
 0139c8243ae70bb1c21ff7cf1ec42aeb *man/letterR.Rd
 971777ecb143c8d590ef11c621bc5c82 *man/longleaf.Rd
-70dff54a5bd8a6e1f58fa34d85e55c7a *man/macros/defns.Rd
+21caadee258303e12f57caf0905988a9 *man/macros/defns.Rd
 b3779334e5ab94a9544ee5ff4a37f48d *man/mucosa.Rd
 01aa22af6aaf3c7bab6292dee953789e *man/murchison.Rd
 e324e5628fc7d27e3654f2d1b0a83ce9 *man/nbfires.Rd
@@ -130,6 +131,7 @@ cdbc8a6a920839a7b2cf77defab248d6 *man/spatstat.data-package.Rd
 5d5cfac2637c45b019a8be0ac82fee17 *man/spiders.Rd
 66eb609c058642c94d245119e8702a60 *man/sporophores.Rd
 7237adf15bc0e4d69a197892b9c7e37e *man/spruces.Rd
+ad7a1f3a0a5ccafa9b670233079983fc *man/stonetools.Rd
 83bcdc62b922cd090f6db4607d5f2cd1 *man/swedishpines.Rd
 089b813c09ed66df3b3a8215ca8b376b *man/urkiola.Rd
 09ffa45ce4c4f60ff0c8b9b7f8f11a1f *man/vesicles.Rd
