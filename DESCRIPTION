@@ -1,6 +1,6 @@
 Package: spatstat.data
-Version: 3.1-8
-Date: 2025-08-18
+Version: 3.1-9
+Date: 2025-10-18
 Title: Datasets for 'spatstat' Family
 Authors@R: c(person("Adrian", "Baddeley", 
                     role = c("aut", "cre"),
@@ -109,7 +109,7 @@ LazyData: true
 NeedsCompilation: no
 ByteCompile: true
 BugReports: https://github.com/spatstat/spatstat.data/issues
-Packaged: 2025-08-18 10:23:06 UTC; adrian
+Packaged: 2025-10-18 06:37:21 UTC; adrian
 Author: Adrian Baddeley [aut, cre] (ORCID:
     <https://orcid.org/0000-0001-9499-8382>),
   Rolf Turner [aut] (ORCID: <https://orcid.org/0000-0001-5521-5218>),
@@ -197,4 +197,4 @@ Author: Adrian Baddeley [aut, cre] (ORCID:
   Keith Watkins [ctb],
   H Wendrock [ctb]
 Repository: CRAN
-Date/Publication: 2025-08-18 11:10:02 UTC
+Date/Publication: 2025-10-18 07:10:02 UTC

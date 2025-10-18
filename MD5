@@ -1,12 +1,12 @@
-be3175471ab541c02e3561a41a74496e *DESCRIPTION
+16339cf0e221b6341052bc6f3182e316 *DESCRIPTION
 71f27b031cf697c3b0687073c662f319 *NAMESPACE
-3522e88d5ec53b360c31d2fc6eed84f9 *NEWS
+256199283d08479b5b4db98695c8e8c2 *NEWS
 2a30eab1bb67b3c343de07010812747b *R/copyExampleFiles.R
 dc0c9a78ca76a39db97c36db19a4f148 *data/Kovesi.rda
 7e222c2b4450937e1f0d2717ffa157a8 *data/amacrine.rda
 1c5fd76e73b55a8b9250a95085e6beb7 *data/anemones.rda
 cc0af2d6afe04f7dda8255b99a2a9e95 *data/ants.rda
-f2ea7a193db6537be1e69f31501f90fc *data/austates.rda
+983be68602f03bbde118031f163621aa *data/austates.rda
 b53dca999e914ec2ed7bfdfd170fabff *data/bdspots.rda
 c62e382de584373d1c2132efe6c2256a *data/bei.rda
 e5dc971413525ce95dd82785a40feb5d *data/betacells.rda
@@ -50,7 +50,7 @@ dd90006639d6c112371c524abc309a3c *data/ponderosa.rda
 91ba3749942e83a1c120fc0989aff934 *data/redwoodfull.rda
 8f89bb0b33d0fa048f7bec6a2b86c777 *data/residualspaper.rda
 2284e4fc92c8df6602cf6c466f48ee73 *data/shapley.rda
-0219d6886f715494ac177785735364a9 *data/shelling.rda
+cefe1d9cf2caeafc954a9da88455348d *data/shelling.rda
 7f064f70f3ebdaf129196ca88990c1c2 *data/simba.rda
 e43acf6b239c19dcca6b44ab42f6f440 *data/simdat.rda
 c6e129bf09062051d486815f2392c035 *data/simplenet.rda
@@ -64,8 +64,8 @@ cb88549102c580adfaedaf630bb84862 *data/vesicles.rda
 80dda3a4e1456434214de7eb19ce48ae *data/waka.rda
 edd4cf5dc79a3e4091f8541057468c80 *data/waterstriders.rda
 f2d49fc8f50fef7f76bcb3fc7f34efb4 *inst/CITATION
-1b5acb52381b6a7ce78f683962bceb89 *inst/doc/packagesizes.txt
-1b5acb52381b6a7ce78f683962bceb89 *inst/info/packagesizes.txt
+81fd30c06452a6b50352b3be018feb83 *inst/doc/packagesizes.txt
+81fd30c06452a6b50352b3be018feb83 *inst/info/packagesizes.txt
 5bd85f0a101e5b39b9d3dd591bcf657f *inst/rawdata/amacrine/amacrine.txt
 5d385fac345198c0abc886db56d60cd5 *inst/rawdata/finpines/finpines.txt
 af2c22765b01d39a1efc4e82e958ec48 *inst/rawdata/gorillas/vegetation.asc
